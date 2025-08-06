@@ -11,11 +11,29 @@
 
   **Passionate junior frontend dev building user-friendly UI, solving problems through projects, and learning new technologies.**
 
----
+  ---
 
   <h2>⚒️ LANGUAGES · FRAMEWORKS · TOOLS ⚒️</h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" width="450"/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" width="300" />
-	<br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vscode" width="400" />
+  
+  <br/><br/>
+  
+  ---
 
+  <table>
+    <tr>
+      <td>
+        <h2 align="center">🌱 Currently Learning 🌱</h2>
+        <p>
+          <img src="https://img.shields.io/badge/React+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GSAP-7FBF33?style=for-the-badge&logo=greensock&logoColor=000000"/>
+        </p>
+      </td>
+      <td width="600">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=leakoo&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
