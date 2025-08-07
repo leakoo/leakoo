@@ -14,7 +14,7 @@
   ---
 
   <h2>⚒️ LANGUAGES · FRAMEWORKS · TOOLS ⚒️</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" width="450"/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" width="500"/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vscode" width="400" />
   
   <br/><br/>
@@ -24,14 +24,15 @@
   <table>
     <tr>
       <td>
-        <h2 align="center">🌱 Currently Learning 🌱</h2>
+        <h2 align="center">🌱 Learning Roadmap 🌱</h2>
         <p>
           <img src="https://img.shields.io/badge/React+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=000000"/>
           <img src="https://img.shields.io/badge/GSAP-7FBF33?style=for-the-badge&logo=greensock&logoColor=000000"/>
         </p>
       </td>
-      <td width="600">
+      <td width="500">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=leakoo&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" />
       </td>
     </tr>
